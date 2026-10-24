@@ -1,0 +1,3 @@
+group,denominator,weighted_mortality_risk,standard_error,ci_low,ci_high,observed_status_denominator_n,observed_status_weighted_denominator,unknown_status_excluded_n
+same,First all-cause readmissions with observed DIED status,0.06385001218664205,4.657905094521498e-4,0.06293707956377527,0.06476294480950882,442645,808913.6520713998,114
+different,First all-cause readmissions with observed DIED status,0.07722962789083723,8.062722737855818e-4,0.07564936327248427,0.0788098925091902,133981,243834.0149938,44

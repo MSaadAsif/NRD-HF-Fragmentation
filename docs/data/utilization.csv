@@ -1,3 +1,3 @@
 outcome,group,estimate,standard_error,ci_low,ci_high,unweighted_n,weighted_n,scale
-Full LOS of first subsequent admission (days; zero if none),same,2.163296627143521,0.010892308884023656,2.1419480940223488,2.1846451602646932,401630,734380.1221178999,mean days
-Full LOS of first subsequent admission (days; zero if none),different,2.3188993025193536,0.018582825423647618,2.282477633958009,2.3553209710806984,111140,202216.4136119,mean days
+Full LOS of first subsequent admission (days; zero if none),same,2.163296627143521,0.01089230888402365,2.1419480940223488,2.1846451602646932,401630,734380.1221178999,mean days
+Full LOS of first subsequent admission (days; zero if none),different,2.3188993025193536,0.01858282542364761,2.282477633958009,2.3553209710806984,111140,202216.4136119,mean days
